@@ -1,0 +1,5 @@
+#!/usr/bin/python
+
+from flaskr import app as application
+from flaskr import *
+init_db()
